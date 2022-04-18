@@ -1,4 +1,4 @@
-# Tip calculator app
+#  Tip calculator app 
 
 ## Overview
 
@@ -26,3 +26,4 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+
